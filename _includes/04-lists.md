@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Favorites:
+* Ergo Proxy
+* Cowboy Bebop
+* Psycho Pass
+* Samurai Champloo
+* Tatami Galaxy
